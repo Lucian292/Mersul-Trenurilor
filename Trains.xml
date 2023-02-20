@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Trenuri time="2023-01-10 10:59">
+	<Tren name="TR1">
+		<Statii>
+			<Statie id="first" name="Iasi" oraP="2023-01-10 05:07" Tintarziere="0" />
+			<Statie id="2" name="Pascani" oraS="2023-01-10 06:10" oraP="2023-01-10 06:30" Tintarziere="0" />
+			<Statie id="3" name="Bacau" oraS="2023-01-10 07:20" oraP="2023-01-10 07:22" Tintarziere="0" />
+			<Statie id="4" name="Buzau" oraS="2023-01-10 08:00" oraP="2023-01-10 09:28" Tintarziere="0" />
+			<Statie id="5" name="Ploiesti" oraS="2023-01-10 10:33" oraP="2023-01-10 10:35" Tintarziere="0" />
+			<Statie id="last" name="Bucuresti" oraS="2023-01-10 13:00" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR2">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="2023-01-10 07:10" Tintarziere="0" />
+			<Statie id="2" name="Ciulnita" oraS="2023-01-10 08:10" oraP="2023-01-10 08:12" Tintarziere="0" />
+			<Statie id="3" name="Fetesti" oraS="2023-01-10 08:32" oraP="2023-01-10 08:34" Tintarziere="0" />
+			<Statie id="4" name="Cernavoda" oraS="2023-01-10 08:47" oraP="2023-01-10 08:49" Tintarziere="0" />
+			<Statie id="5" name="Medgidia" oraS="2023-01-10 09:05" oraP="2023-01-10 09:07" Tintarziere="0" />
+			<Statie id="last" name="Constanta" oraS="2023-01-10 09:31" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR3">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="2023-01-10 07:40" Tintarziere="0" />
+			<Statie id="2" name="Ploiesti" oraS="2023-01-10 08:19" oraP="2023-01-10 08:20" Tintarziere="0" />
+			<Statie id="3" name="Campina" oraS="2023-01-10 08:42" oraP="2023-01-10 08:43" Tintarziere="0" />
+			<Statie id="4" name="Sinaia" oraS="2023-01-10 09:11" oraP="2023-01-10 09:12" Tintarziere="0" />
+			<Statie id="5" name="Busteni" oraS="2023-01-10 09:21" oraP="2023-01-10 09:22" Tintarziere="0" />
+			<Statie id="6" name="Azuga" oraS="2023-01-10 09:27" oraP="2023-01-10 09:28" Tintarziere="0" />
+			<Statie id="7" name="Predeal" oraS="2023-01-10 09:39" oraP="2023-01-10 09:40" Tintarziere="0" />
+			<Statie id="last" name="Brasov" oraS="2023-01-10 10:16" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR4">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="2023-01-10 05:46" Tintarziere="0" />
+			<Statie id="2" name="Videle" oraS="2023-01-10 06:33" oraP="2023-01-10 06:34" Tintarziere="0" />
+			<Statie id="3" name="Rosiori" oraS="2023-01-10 07:24" oraP="2023-01-10 07:25" Tintarziere="0" />
+			<Statie id="4" name="Caracal" oraS="2023-01-10 08:19" oraP="2023-01-10 08:20" Tintarziere="0" />
+			<Statie id="5" name="Craiova" oraS="2023-01-10 09:04" oraP="2023-01-10 09:11" Tintarziere="0" />
+			<Statie id="6" name="Filiasi" oraS="2023-01-10 09:37" oraP="2023-01-10 09:38" Tintarziere="0" />
+			<Statie id="7" name="Strehaia" oraS="2023-01-10 09:04" oraP="2023-01-10 10:09" Tintarziere="0" />
+			<Statie id="8" name="Balota" oraS="2023-01-10 10:54" oraP="2023-01-10 10:55" Tintarziere="0" />
+			<Statie id="9" name="Drobeta Turnu Severin" oraS="2023-01-10 11:27" oraP="2023-01-10 11:35" Tintarziere="0" />
+			<Statie id="10" name="Orsova" oraS="2023-01-10 12:05" oraP="2023-01-10 12:06" Tintarziere="0" />
+			<Statie id="11" name="Baile Herculane" oraS="2023-01-10 12:29" oraP="2023-01-10 12:30" Tintarziere="0" />
+			<Statie id="12" name="Caransebes" oraS="2023-01-10 13:54" oraP="2023-01-10 13:55" Tintarziere="0" />
+			<Statie id="13" name="Lugoj" oraS="2023-01-10 14:36" oraP="2023-01-10 14:37" Tintarziere="0" />
+			<Statie id="last" name="Timisoara" oraS="2023-01-10 15:35" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR5">
+		<Statii>
+			<Statie id="first" name="Bucuresti" oraP="2023-01-10 20:10" Tintarziere="0" />
+			<Statie id="2" name="Videle" oraS="2023-01-10 20:58" oraP="2023-01-10 20:59" Tintarziere="0" />
+			<Statie id="3" name="Craiova" oraS="2023-01-10 23:31" oraP="2023-01-10 23:36" Tintarziere="0" />
+			<Statie id="4" name="Caransebes" oraS="2023-01-11 04:15" oraP="2023-01-11 04:16" Tintarziere="0" />
+			<Statie id="5" name="Timisoara" oraS="2023-01-11 06:00" oraP="2023-01-11 06:09" Tintarziere="0" />
+			<Statie id="last" name="Arad" oraS="2023-01-11 07:05" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR6">
+		<Statii>
+			<Statie id="first" name="Baia Mare" oraP="2023-01-10 05:40" Tintarziere="0" />
+			<Statie id="2" name="Gherla" oraS="2023-01-10 08:55" oraP="2023-01-10 08:57" Tintarziere="0" />
+			<Statie id="3" name="Cluj Napoca" oraS="2023-01-10 09:47" oraP="2023-01-10 09:57" Tintarziere="0" />
+			<Statie id="4" name="Aiud" oraS="2023-01-10 10:38" oraP="2023-01-10 10:39" Tintarziere="0" />
+			<Statie id="5" name="Brasov" oraS="2023-01-10 16:45" oraP="2023-01-10 17:00" Tintarziere="0" />
+			<Statie id="last" name="Bucuresti" oraS="2023-01-10 20:41" Tintarziere="0" />
+		</Statii>
+	</Tren>
+	<Tren name="TR7">
+		<Statii>
+			<Statie id="first" name="Baia Mare" oraP="2023-01-10 07:00" Tintarziere="0" />
+			<Statie id="2" name="Gherla" oraS="2023-01-10 10:00" oraP="2023-01-10 11:45" Tintarziere="15" />
+			<Statie id="2" name="Aiud" oraS="2023-01-10 17:10" oraP="2023-01-10 17:27" Tintarziere="15" />
+			<Statie id="last" name="Bucuresti" oraS="2023-01-11 00:11" Tintarziere="15" />
+		</Statii>
+	</Tren>
+</Trenuri>

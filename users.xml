@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<user>
+	<name>Lucian</name>
+	<password>123</password>
+	<isAuth>0</isAuth>
+</user>
+<user>
+	<name>Luci</name>
+	<password>321</password>
+	<isAuth>0</isAuth>
+</user>
+<user>
+	<name>Ana Maria</name>
+	<password>123123</password>
+	<isAuth>0</isAuth>
+</user>
+<user>
+	<name>Ana</name>
+	<password>123456</password>
+	<isAuth>0</isAuth>
+</user>
+<user>
+	<name>gigi</name>
+	<password>1</password>
+	<isAuth>0</isAuth>
+</user>
